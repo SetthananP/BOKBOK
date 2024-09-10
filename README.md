@@ -18,7 +18,7 @@ BOKBOK is a web platform developed using HTML, CSS, and JavaScript to help conne
 
 ## Screenshots
 1. Home Page
-<img width="1440" alt="bokbokhome" src="https://github.com/user-attachments/assets/3f953dc9-4744-46e5-ba25-418891e0a202">
+[<img width="1440" alt="bokbokhome" src="https://github.com/user-attachments/assets/3f953dc9-4744-46e5-ba25-418891e0a202">](https://raw.githubusercontent.com/SetthananP/BOKBOK/main/imagesREADME/bokbokhome.png)
 ![Dog Profile](https://your-url-to-screenshot.com/dog-profile.png)
 
 ## Installation
