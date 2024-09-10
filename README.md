@@ -26,5 +26,6 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/bokbok.git
-   ```bash
-   https://bokbok-official.onrender.com/
+   
+2. Or you can check out the demo here:
+👉 BOKBOK Demo
