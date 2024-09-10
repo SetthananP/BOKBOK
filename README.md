@@ -10,13 +10,11 @@ BOKBOK is a web platform developed using HTML, CSS, and JavaScript to help conne
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - 🐶 **Browse Stray Dogs**: See a gallery of available dogs looking for homes.
 - 📍 **Location-based Search**: Find dogs near you for easier adoption.
 - 💬 **Contact Shelters**: Quickly reach out to shelters or individuals for more details.
-- 📈 **Statistics**: Track how many dogs have been adopted.
 
 ## Screenshots
 ![Home Page](https://your-url-to-screenshot.com/homepage.png)
@@ -28,3 +26,5 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/bokbok.git
+   ```bash
+   https://bokbok-official.onrender.com/
