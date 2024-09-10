@@ -1,6 +1,7 @@
 # BOKBOK 🐾
 
-BOKBOK is a web platform developed using HTML, CSS, and JavaScript to help connect stray dogs with loving homes. Whether you're looking to adopt or help spread the word, BOKBOK makes it easy to find homes for stray dogs in need.
+## 📝 Project Description
+BOKBOK is a web platform developed using **HTML, CSS, and JavaScript** to help connect stray dogs with loving homes. Whether you're looking to adopt or help spread the word, BOKBOK makes it easy to find homes for stray dogs in need.
 
 ![Build Status](https://img.shields.io/badge/build-Complete-brightgreen)
 
@@ -8,7 +9,6 @@ BOKBOK is a web platform developed using HTML, CSS, and JavaScript to help conne
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
-- [Usage](#usage)
 
 ## Features
 - 🐶 **Browse Stray Dogs**: See a gallery of available dogs looking for homes.
