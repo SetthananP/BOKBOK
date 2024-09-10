@@ -18,7 +18,7 @@ BOKBOK is a web platform developed using **HTML, CSS, and JavaScript** to help c
 ## Screenshots
 1. Home Page
 
-![BOKBOK Home](https://github.com/SetthananP/BOKBOK/blob/main/imagesREADME/bokbokhome.png?raw=true)
+<img src="https://github.com/SetthananP/BOKBOK/blob/main/imagesREADME/bokbokhome.png?raw=true" alt="BOKBOK Home" width="400"/>
 
 2. Species
 
