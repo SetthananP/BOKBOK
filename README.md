@@ -19,7 +19,23 @@ BOKBOK is a web platform developed using HTML, CSS, and JavaScript to help conne
 1. Home Page
 
 ![BOKBOK Home](https://github.com/SetthananP/BOKBOK/blob/main/imagesREADME/bokbokhome.png?raw=true)
-![Dog Profile](https://your-url-to-screenshot.com/dog-profile.png)
+
+2. Species
+
+![BOKBOK Species](https://github.com/SetthananP/BOKBOK/blob/main/imagesREADME/bokbokspecies.png?raw=true)
+
+3. Dog Information
+
+![BOKBOK Dog](https://github.com/SetthananP/BOKBOK/blob/main/imagesREADME/bokbokdog.png?raw=true)
+
+4. Stray Dog Adopter
+   
+![BOKBOK Adopter](https://github.com/SetthananP/BOKBOK/blob/main/imagesREADME/bokbokinformation.png?raw=true)
+
+5. Complete
+   
+![BOKBOK Adopter](https://github.com/SetthananP/BOKBOK/blob/main/imagesREADME/bokbokcomplete.png?raw=true)
+   
 
 ## Installation
 To run this project locally:
