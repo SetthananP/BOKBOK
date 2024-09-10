@@ -9,7 +9,6 @@ BOKBOK is a web platform developed using HTML, CSS, and JavaScript to help conne
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Features
 - 🐶 **Browse Stray Dogs**: See a gallery of available dogs looking for homes.
