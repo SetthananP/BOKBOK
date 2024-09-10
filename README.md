@@ -42,7 +42,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bokbok.git](https://github.com/SetthananP/BOKBOK.git
+   git clone https://github.com/SetthananP/BOKBOK.git
    
 2. Or you can check out the demo here:
 👉 <a href="https://bokbok-official.onrender.com/" target="_blank">BOKBOK Demo</a>
